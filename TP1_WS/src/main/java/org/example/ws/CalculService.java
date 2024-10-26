@@ -1,4 +1,4 @@
-package ws;
+package org.example.ws;
 
 import javax.jws.WebMethod;
 import javax.jws.WebParam;
